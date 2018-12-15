@@ -10,6 +10,7 @@
 
 **Informações**
 1 - Para o funcionamento do display LCD é necessário que haja a conexão dos pinos seguindo a tabela abaixo, onde a primeira coluna representa o número do pino do Arduino e a segunda coluna representa os pinos do display LCD.
+
 | Arduino | Display LCD |
 |:-------:|:-----------:|
 |    4    |      D4     |
