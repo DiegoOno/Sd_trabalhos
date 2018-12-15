@@ -1,0 +1,17 @@
+Binaries/delay.o
+Binaries/button.o
+Binaries/io.o
+Binaries/led.o
+Binaries/sevenSeg.o
+Binaries/uart.o
+Binaries/ultrasonic.o
+termometer/termometer.o
+termometer/termometer.elf
+src/termometer/termometer.elf
+src/termometer/termometer.o
+test.o
+Binaries/dht11.o
+test.elf
+test.elf
+main.elf
+main.o

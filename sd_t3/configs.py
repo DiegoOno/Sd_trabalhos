@@ -1,0 +1,5 @@
+API_KEY = 'c4bec5346383d1f4b2480daab1881ec2'
+URL = 'http://api.openweathermap.org/data/2.5/weather?'
+CITY_NAME = 'Maringá'
+CITY_ID = '6322863'
+UNITS = 'metric'

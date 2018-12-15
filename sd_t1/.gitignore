@@ -1,0 +1,13 @@
+io.o
+test.elf
+test.o
+led.o
+delay.o
+ultrasonic.o
+uart.o
+.vscode/c_cpp_properties.json
+.vscode/c_cpp_properties.json
+binaries/button.o
+run.sh
+binaries/sevenSeg.o
+binaries/wave.o
